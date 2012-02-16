@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<arfheader>
+<features>
+<feature name ="1" fid="0" type="numeric"/>
+<feature name ="1" fid="0" type="numeric"/>
+<feature name ="2" fid="1" type="numeric"/>
+<feature name ="2" fid="1" type="numeric"/>
+<feature name ="45" fid="2" type="numeric"/>
+<feature name ="45" fid="2" type="numeric"/>
+<feature name ="59" fid="3" type="numeric"/>
+<feature name ="59" fid="3" type="numeric"/>
+<feature name ="60" fid="4" type="numeric"/>
+<feature name ="60" fid="4" type="numeric"/>
+<feature name ="83" fid="5" type="numeric"/>
+<feature name ="83" fid="5" type="numeric"/>
+<feature name ="86" fid="6" type="numeric"/>
+<feature name ="86" fid="6" type="numeric"/>
+<feature name ="95" fid="7" type="numeric"/>
+<feature name ="95" fid="7" type="numeric"/>
+<feature name ="96" fid="8" type="numeric"/>
+<feature name ="96" fid="8" type="numeric"/>
+<feature name ="113" fid="9" type="numeric"/>
+<feature name ="113" fid="9" type="numeric"/>
+<feature name ="162" fid="10" type="numeric"/>
+<feature name ="162" fid="10" type="numeric"/>
+<feature name ="180" fid="11" type="numeric"/>
+<feature name ="180" fid="11" type="numeric"/>
+</features>
+<classes>
+<class name="WWW" val="0"/>
+<class name="MAIL" val="1"/>
+<class name="BULK" val="2"/>
+<class name="ATTACK" val="3"/>
+<class name="CHAT" val="4"/>
+<class name="P2P" val="5"/>
+<class name="DATABASE" val="6"/>
+<class name="MULTIMEDIA" val="7"/>
+<class name="VOIP" val="8"/>
+<class name="SERVICES" val="9"/>
+<class name="INTERACTIVE" val="10"/>
+<class name="GAMES" val="11"/>
+<class name="ADMIN" val="12"/>
+</classes>
+</arfheader>
